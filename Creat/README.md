@@ -1,6 +1,6 @@
-#Name:-
+__Name:-__
     creat — create a new file or truncate an existing one.
-#Header File:-
+__Header File:-__
     # include <fcntl.h>
 __Prototype:-__
     int creat(const char *pathname, mode_t mode);
